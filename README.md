@@ -1,7 +1,10 @@
-# Project_Splatter
+Splatter
+
+
 A fast-paced tactical CQB paintball shooter built in Unreal Engine 5.
 
 Overview
+
 Splatter is a multiplayer first-person shooter inspired by the intensity of CQB tactical shooters, but built around competitive paintball instead of military combat.
 The goal is to create satisfying movement, tactical decision making, and close-quarters firefights where positioning and teamwork matter more than simply running and gunning.
 This project is currently in active development and serves as both a commercial game project and a learning journey into Unreal Engine 5 and game development.
