@@ -15,7 +15,7 @@ Current Features
 - Walking
 - Jumping
 - Hold-to-Crouch
-- Sprint (In Development)
+- Sprint
 
 
 Planned Features
