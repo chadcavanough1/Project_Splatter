@@ -19,8 +19,7 @@ Current Features
 
 
 Planned Features
- Movement
-- Sprint
+
 - Leaning
 - Mantling
 - Vaulting
