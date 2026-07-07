@@ -1,0 +1,112 @@
+Roadmap                                                                                                                         
+
+
+Phase 1 
+
+Walking
+Sprinting
+Jumping
+Looking around
+Opening doors
+Picking up a cube
+
+
+
+Phase 2
+
+acceleration
+deceleration
+crouch                                                                                                     
+slide? 
+leaning/peak
+camera bob?
+footsteps
+FOV while sprinting - {adjustable to users preference within tolerances}
+
+
+Phase 3
+
+GUN-
+
+ADS
+firing
+recoil
+sounds
+paintballs
+hit detection
+
+
+Phase 4
+
+hit registry-
+
+Shoot AI cubes
+Cube flashes
+Counter goes up
+
+
+
+Phase 5
+
+Paint
+
+Every shot leaves paint
+colour selectable, or multiple?
+drips?
+decals stay
+players get covered
+ricochets? ie- paintball hits door frame, paint covers player
+
+
+
+Phase 6
+
+Map
+ _____________
+|             |
+|  Room   []  |
+|      ___    |
+|     |   |   |
+| []  |   |[] |    (this took a solid 30 fkn minutes)
+|_____|___|___|
+
+Boxes
+Corners
+Hallways
+half walls
+
+
+Phase 7
+
+AI
+
+One bot that can
+-see you
+-shoot you
+-die
+(now replicate multiple times once successful)
+
+
+
+Phase 8
+
+Multiplayer?????? maybe one day 
+
+
+Learn engine
+     │
+Player
+     │
+One gun
+     │
+Hit detection
+     │
+Paint system
+     │
+One tiny map
+     │
+One bot
+     │
+Multiplayer????
+     │
+More maps

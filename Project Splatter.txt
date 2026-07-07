@@ -1,0 +1,19 @@
+Project Splatter
+
+Competitive CQB Paintball FPS
+
+Core Gameplay:
+- Fast rounds
+- Tight indoor maps
+- Paintball markers
+- Team-based
+- Skill focused
+
+Features:
+- Player movement
+- Shooting
+- Paint decals
+- Health
+- Respawn
+- Multiplayer
+- Voice chat/prox chat
